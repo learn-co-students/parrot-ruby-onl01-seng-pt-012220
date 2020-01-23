@@ -1,2 +1,4 @@
-# Create method `parrot` that outputs a given phrase and
-# returns the phrase
+parot_method
+def parot(language ="Squawk!")
+  puts "the bird speaks in {language}."
+end
