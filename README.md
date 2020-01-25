@@ -1,5 +1,10 @@
-# Parrot
+def # Parrot
+  #puts "Squawk!"
+end
 
+
+ "Squawk!"
+ 
 ## Objectives
 
 1.  Define a method that accepts arguments.
