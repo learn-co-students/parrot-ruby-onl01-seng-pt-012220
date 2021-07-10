@@ -1,2 +1,6 @@
-# Create method `parrot` that outputs a given phrase and
-# returns the phrase
+require '../parrot_spec.rb'
+
+def parrot (phrase="squawk!")
+  puts phrase 
+end 
+return phrase
